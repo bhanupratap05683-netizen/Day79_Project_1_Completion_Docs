@@ -2,7 +2,7 @@
 
 An end-to-end automated financial dashboard that fetches live market data, analyzes it with pandas, and generates a professionally formatted Excel report with charts.
 
-This project was built as Portfolio Project 1 for my 84-Day Python & Excel Mastery.
+This project was built as Project 1 for my 84-Day Python & Excel Mastery.
 
 ### 🚀 Demo
 ![Dashboard Screenshot](charts/sample_dashboard.png)
